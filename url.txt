@@ -1,1 +1,1 @@
-not deployed yet
+https://dashboard-kepuasan-acxt6bsovpyytyyt9a3kiu.streamlit.app/
